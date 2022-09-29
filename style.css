@@ -1,0 +1,266 @@
+.marginleft{
+  margin-left: 50px;
+  
+}
+
+#bando{
+  margin-top:40px;
+  margin-left: 60px;
+}
+.menu{
+  padding: 3px;
+}
+body{
+  background-image:url('fundo mar.jpg');
+  background-size: 120%;
+  background-attachment: fixed;
+ /* background-color: #0061FF;*/
+}
+#inicio{
+  border: none;
+  border-radius: 60px;
+  background-image: url('madeiratextura.jpg');
+  font-family: 'Arial Black';
+  color:white;
+  font-size:20px;
+  width:80px;
+  height:30px;
+  margin-right: 5px;
+}
+
+#sobre{
+  border: none;
+  border-radius: 60px;
+  background-image: url('madeiratextura.jpg');
+  font-family: 'Arial Black';
+  font-size:20px;
+  color: white;
+  width:80px;
+  height:30px;
+  margin-right: 5px;
+}
+
+#personagens{
+  border: none;
+  border-radius: 60px;
+  background-image: url('madeiratextura.jpg');
+  font-family: 'Arial Black';
+  font-size:20px;
+  color: white;
+  width:160px;
+  height:30px;
+  margin-right: 5px;
+  
+}
+
+#curio{
+  border: none;
+  border-radius: 60px;
+  background-image: url('madeiratextura.jpg');
+  font-family: 'Arial Black';
+  font-size:20px;
+  height: 40%;
+  color: white;
+  width:140px;
+  height:30px;
+  margin-right: 5px;
+}
+
+#episod{
+  border: none;
+  border-radius: 60px;
+  background-image: url('madeiratextura.jpg');
+  font-family: 'Arial Black';
+  font-size:20px;
+  height: 40%;
+  color: white;
+  width:120px;
+  height:30px;
+  margin-right: 5px;
+}
+
+#container{
+  width: 1000px;
+  margin: 0px auto;
+}
+
+#header{
+  background-image:url('onepiecelogo.png');
+  background-repeat: no-repeat;
+  background-size: 25%;
+  height:90px;
+  text-align: center;
+}
+
+#luffy{
+  right: 10px;
+  position: relative;
+}
+
+  .nav{
+	overflow:hidden;
+    width: 1000px;
+    height: 50px;
+    font-family: 'Arial Black';
+    margin-bottom: 5px;
+	}
+
+
+.nav a{
+	float:left;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration:none
+}
+#onepiece{
+margin-right: 40px;
+}
+
+
+#onepiecesinopse{
+margin-left: 50px;
+}
+
+#historia{
+	width:1000px;
+	height:350px;
+	color:white;
+	font-family:Verdana;
+  background-repeat: no-repeat;
+	font-size:14px;
+  background-attachment: fixed;
+  background-image:url('blue.jpg');
+  background-size: 200%;
+	display:inline-block;
+	text-align:justify;
+  margin-bottom: 10px;
+}
+
+#sinopse{
+  width:1000px;
+	height:600px;
+	color:white;
+	font-family:Verdana;
+	font-size:14px;
+  background-repeat: no-repeat;
+  background-image:url('blue.jpg');
+  background-size: 200%;
+	display:inline-block;
+	text-align:justify;
+  margin-bottom: 10px;
+}
+
+#arcos{
+  width:1000px;
+  height:5100px;
+	color:white;
+	font-family:Verdana;
+	font-size:16px;
+  background-image:url('blue.jpg');
+  background-repeat: sticky;
+  background-attachment: fixed;
+  background-size: 500%;
+	display:inline-block;
+	text-align:justify
+}
+#rodape{
+  color: black;
+  margin-top: 30px;
+  width:1000px;
+  height:20px;
+  font-family:Verdana;
+  font-size:16px;
+  font-weight: bold;
+  display:inline-block;
+	text-align:center;
+}
+
+
+.title{
+  font-size: 40px;
+  font-weight: bold;
+}
+
+#content{
+  width: 1000px;
+}
+
+#homepage{
+  width:1000px;
+	height:600px;
+  border-color: black;
+  border-style: solid;
+	color: white;
+	font-family:Verdana;
+	font-size:18px;
+  background-attachment: fixed;
+  background-image:url('fondohome.png');
+  background-size: 150%;
+	display:inline-block;
+	text-align:justify;
+  
+}
+#borda{
+  margin-top: 100px;
+  border-color: black;
+  border-style: solid;
+}
+#borda:hover{
+  border-style: solid;
+  opacity: 0.8;
+}
+
+#borda2{
+  border-color: black;
+  border-style: solid;
+}
+
+#borda2:hover{
+  opacity: 0.7;
+}
+
+#episodio{
+  width:1000px;
+	height:12900px;
+	color:white;
+	font-family:Verdana;
+  background-repeat: sticky;
+	font-size:11px;
+  background-attachment: fixed;
+  background-image:url('blue.jpg');
+  background-size: 500%;
+	display:inline-block;
+	text-align:justify;
+  margin-bottom: 10px;
+  font-weight: bold;
+  
+}
+#erro{
+  width:900px;
+	height:500px;
+	color: white;
+	font-family:Verdana;
+	font-size:20px;
+  background-image:url('perdido.png');
+  background-size: 100%;
+  background-repeat: no-repeat;
+	display:inline-block;
+	text-align:justify;
+  border-color: black;
+  border-style: solid;
+  
+}
+
+#voltar{
+  margin-right:10px;
+  border-color: black;
+  border-style: solid;
+}
+#voltar:hover{
+  border-style: solid;
+  opacity: 0.8;
+}
+
+#ponto{
+  margin-left:10px;
+}
